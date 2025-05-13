@@ -1,3 +1,3 @@
 # apnacollege-demo
 <br>
-Author - Shamim Akhtar
+Author - Shamim Akhtar (Apna College)
